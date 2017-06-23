@@ -1,9 +1,9 @@
 # Site settings
-title: Yifan Liu's website
+title: Yifan Liu
 email: yifan_liu@brown.edu
 url: https://example.github.io
 description: "I am a computer science student at Brown University"
-keywords: "Computer Science, Brown"
+keywords: "Computer Science, Brown, Software Engineering, Machine Learning"
 skills: ".NET Development - Android Development - Virtual Reality Development"
 meta_author: Liu Yifan
 
@@ -40,20 +40,20 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/yifan-liu
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Providence
+  - line: Rhode Island, 02906
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
